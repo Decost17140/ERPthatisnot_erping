@@ -33,7 +33,7 @@ include 'header.php';
             <p class="mb-0">ขณะนี้ระบบ ERP สร้างเสร็จสมบูรณ์แล้ว หากถ่ายคลิปวิดีโอเสร็จแล้ว สามารถนำ iframe จาก Youtube มาวางในไฟล์ <code>about.php</code> เพื่อส่งงานอาจารย์ได้เลยครับ</p>
         </div>
         
-        <a href="https://github.com/your-repo-link" target="_blank" class="btn btn-dark"><i class="bi bi-github"></i> ดู Source Code ระบบบน GitHub</a>
+        <a href="https://github.com/Decost17140/ERPthatisnot_erping" target="_blank" class="btn btn-dark"><i class="bi bi-github"></i> ดู Source Code ระบบบน GitHub</a>
     </div>
 </div>
 <?php include 'footer.php'; ?>
